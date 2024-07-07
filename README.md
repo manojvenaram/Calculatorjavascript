@@ -1,6 +1,6 @@
 # Assignment 5
 ## 1.HTML
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,9 +62,9 @@
 </body>
 </html>
 
-'''
+```
 ## Style.css
-'''
+```
 .main{
     display: flex;
     justify-content: center;
@@ -111,7 +111,7 @@ button{
     width: 100%;
     height: 100%;
 }
-'''
+```
 
 ## Output
 ![image](https://github.com/manojvenaram/Calculatorjavascript/assets/94165064/4bbe1d1a-ba10-4ed1-8502-6880fe36095a)
